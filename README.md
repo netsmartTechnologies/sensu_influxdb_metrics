@@ -32,8 +32,9 @@ README - Netsmart InfluxDB Sensu Metric Scripts
 
 ## Authors
 
-[dzeleski](https://github.com/dzeleski)
-[csabo](https://github.com/csabo)
+* [dzeleski](https://github.com/dzeleski)
+* [csabo](https://github.com/csabo)
+* [mccartjm](https://github.com/mccartjm)
 
 ## License
 
